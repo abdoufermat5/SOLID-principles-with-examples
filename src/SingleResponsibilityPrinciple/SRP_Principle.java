@@ -1,4 +1,4 @@
-package SingleResponsiblePrinciple;
+package SingleResponsibilityPrinciple;
 
 public class SRP_Principle {
     public static void main(String[] args) {

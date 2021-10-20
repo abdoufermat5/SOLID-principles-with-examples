@@ -1,4 +1,4 @@
-package SingleResponsiblePrinciple;
+package SingleResponsibilityPrinciple;
 
 public class MessageServiceImpl implements IContentService{
 

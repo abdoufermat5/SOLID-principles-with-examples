@@ -1,4 +1,4 @@
-package SingleResponsiblePrinciple;
+package SingleResponsibilityPrinciple;
 
 public interface IContentService {
     // the only responsibility of this class is to modify the data

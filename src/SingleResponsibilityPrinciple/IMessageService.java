@@ -1,4 +1,4 @@
-package SingleResponsiblePrinciple;
+package SingleResponsibilityPrinciple;
 
 public interface IMessageService {
     // the only responsibility of this class is to present the data
